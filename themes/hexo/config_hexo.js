@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['班长！祝你开心快乐', '班长！祝你步步高升', '班长！祝你好运滚滚', '这是你自己的页面！放心食用！'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['班长！祝你开心快乐', '班长！祝你事事顺利', '班长！祝你好运滚滚', '这是你自己的页面！放心食用！'], // 首页大图标语文字
 
   // 菜单配置
   MENU_CATEGORY: true, // 显示分类
